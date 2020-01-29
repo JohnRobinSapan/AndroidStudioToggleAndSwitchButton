@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">ToggleAndSwitchButton</string>
+    <string name="toggleButton">Toggle Button</string>
+    <string name="switchButton">Switch Button</string>
+</resources>
